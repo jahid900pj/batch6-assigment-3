@@ -2,3 +2,13 @@
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.ba-img {
+    height: 570px;
+}
+
+@media only screen and (max-width: 576px) {
+    .ba-img {
+        height: 350px;
+    }
+}
